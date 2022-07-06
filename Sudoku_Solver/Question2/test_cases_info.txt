@@ -1,0 +1,8 @@
+test cases are value of k 
+which can be 
+k = 2
+k = 3
+k = 4
+k = 5
+k = 6
+after k=6 program takes a lot of time to give the answer
